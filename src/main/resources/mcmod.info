@@ -1,0 +1,14 @@
+[{
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "Flatty is a Minecraft mod that will generate the Overworld completly flat while preserving vanilla and modded features.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "",
+    "url": "https://github.com/ripley2459/flatty",
+    "authorList": [
+        "Ripley2459"
+    ],
+    "credits": "",
+    "dependencies": []
+}]
